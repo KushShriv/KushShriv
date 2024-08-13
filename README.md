@@ -10,7 +10,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a CSE Student & a Software Developer 」
+    「 I am a Final Year CSE Student & a Software Developer 」
     <br>  
     「 Bangalore 」
     <br>
