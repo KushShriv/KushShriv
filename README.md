@@ -78,6 +78,6 @@
 ## Github Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KushShriv&theme=tokyonight&starting_year=2021&hide_longest_streak=true&hide_current_streak=true&card_width=200&card_height=200&hide_border=true" alt="Kushaagra's GitHub Contributions"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KushShriv&theme=tokyonight&starting_year=2021&hide_longest_streak=true&hide_current_streak=true&card_width=400&card_height=200&hide_border=true" alt="Kushaagra's GitHub Contributions"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KushShriv&theme=tokyonight" alt="Kushaagra's Recent GitHub Contribution"/>
 </p>
