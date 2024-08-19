@@ -23,6 +23,9 @@
   <a href="https://www.instagram.com/kush_shriv/" target="_blank"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="kush_shriv" /></a>
   <a href="https://x.com/Kush_Shriv" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Kush_Shriv" /></a>
 </p>
+<p align="center">
+  <a href="https://kushshriv.github.io"><img src='https://img.shields.io/badge/Portfolio%20Website-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=222222'></a>
+</p>
 <br />
 <hr />
 <br />
@@ -76,14 +79,7 @@
 
 <p align="center">
   <a href="https://github.com/KushShriv">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=KushShriv&theme=tokyonight" alt="Kushaagra's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/KushShriv">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=KushShriv&theme=tokyonight&starting_year=2021&hide_longest_streak=true&hide_current_streak=true&card_width=195" alt="Kushaagra's GitHub streak"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KushShriv&theme=tokyonight" alt="Kushaagra's GitHub Contribution"/>
   </a>
 </p>
-
-<!-- <img src = "https://github-readme-stats.vercel.app/api/pin/?username=KushShriv&theme=tokyonight&repo=Distributed-Load-Testing-System"> -->
