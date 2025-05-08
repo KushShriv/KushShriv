@@ -5,12 +5,12 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/KushShriv"><img src="https://readme-typing-svg.herokuapp.com/?lines=Big%20Data;Full%20Stack;Cloud%20And%20Database;Always%20learning&center=true&width=380&height=45"></a>
 </p>
+  <a href="https://github.com/KushShriv"><img src="https://readme-typing-svg.herokuapp.com/?lines=Big%20Data;Backend;Cloud%20And%20Database;Always%20learning&center=true&width=380&height=45"></a>
 
 <p align="center"> 
   <samp>
-    「 I am a Final Year CSE Student & a Software Developer 」
+    「 I am a Final Year CSE Student & a SDE Intern at IBM India Software Labs 」
     <br>  
     「 Bangalore 」
     <br>
@@ -47,14 +47,12 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch"/></a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="opencv"/></a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white" alt="r-project"/></a>
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache-Hadoop&logoColor=black" alt="hadoop"/></a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=white" alt="kafka"/></a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white" alt="spark"/></a>
-<a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white" alt="go"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" alt="cplusplus"/></a>
+<a href="https://iceberg.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Apache%20Iceberg-0B1F29.svg?style=for-the-badge&logo=codeberg&logoColor=white" alt="Apache Iceberg"/></a>
 
-### Full Stack Development
+### Backend Development
 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" alt="spring"/></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="django"/></a>
