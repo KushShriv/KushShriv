@@ -67,14 +67,3 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongodb"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="typescript"/></a>
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" alt="PrismaORM"/></a>
-
-<br/>
-<hr/>
-<br/>
-
-## Github Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KushShriv&theme=tokyonight&starting_year=2021&hide_longest_streak=true&hide_current_streak=true&card_width=400&card_height=200&hide_border=true" alt="Kushaagra's GitHub Contributions"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KushShriv&theme=tokyonight" alt="Kushaagra's Recent GitHub Contribution"/>
-</p>
