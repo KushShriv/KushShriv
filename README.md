@@ -6,7 +6,7 @@
 
 <p align="center">
 </p>
-  <a href="https://github.com/KushShriv"><img src="https://readme-typing-svg.herokuapp.com/?lines=Big%20Data;Backend;Cloud%20And%20Database;Always%20learning&center=true&width=380&height=45"></a>
+  <a href="https://github.com/KushShriv"><img src="https://readme-typing-svg.herokuapp.com/?lines=Big%20Data;Backend%20Development;Cloud%20And%20Database;Always%20learning&center=true&width=380&height=45"></a>
 
 <p align="center"> 
   <samp>
